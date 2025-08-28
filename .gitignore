@@ -1,0 +1,12 @@
+# Archivos temporales
+*.tmp
+*.log
+.DS_Store
+
+# Directorios de dependencias
+node_modules/
+.env
+
+# Archivos de IDE
+.vscode/
+.idea/
